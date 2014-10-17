@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tmp:home|Door43 (tmp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tmp|d43-tmp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tmp/archive/master.zip|d43-tmp.zip]]
+
+**Recent Changes**
+{{changes>ns = tmp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tmp|Ethnologue data]]
+
